@@ -44,7 +44,9 @@ Le projet sera présenté progressivement avec des exemples pédagogiques, sans 
 
 Le code est conservé dans un dépôt **privé** : [ValoOblig](https://github.com/myassineham/ValoOblig).
 
-Pour demander l'accès, vous pouvez me contacter sur LinkedIn. Les autorisations sont accordées individuellement.
+**[Demander l'accès au code ValoOblig](https://airtable.com/appW5VgoUmJpwzzMj/pagzyz4u1a7U7qqNQ/form)**
+
+Chaque demande est examinée individuellement. Remplir le formulaire ne donne pas automatiquement accès au dépôt privé.
 
 ---
 
