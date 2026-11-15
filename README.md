@@ -50,7 +50,7 @@ Le projet sera présenté progressivement avec des exemples pédagogiques, sans 
 
 ## Accès au code
 
-Le code est conservé dans un dépôt **privé** : [ValoOblig](https://github.com/myassineham/ValoOblig).
+Le code est conservé dans un dépôt **privé** : [ValoOblig](https://github.com/MYH-Solutions/ValoOblig).
 
 **[Demander l'accès au code ValoOblig](https://airtable.com/appW5VgoUmJpwzzMj/pagzyz4u1a7U7qqNQ/form)**
 
