@@ -6,6 +6,8 @@ ValoOblig est une application développée avec **Python et Streamlit** dans le 
 
 > **Problématique :** comment passer des données de taux BAM à une valorisation obligataire structurée, avec une lecture des flux, des courbes et du risque de taux ?
 
+![ValoOblig — Problématique Front Office](assets/visuel_1.png)
+
 ## Ce que contient le projet
 
 | Domaine | Fonctionnalités implémentées dans le code |
@@ -18,6 +20,8 @@ ValoOblig est une application développée avec **Python et Streamlit** dans le 
 | Interface | Pages Streamlit : marché, valorisation, négociation |
 
 ## Architecture fonctionnelle
+
+![ValoOblig — Courbes et méthodes de valorisation](assets/Visuel_2.png)
 
 ```mermaid
 flowchart LR
@@ -39,6 +43,10 @@ flowchart LR
 Ce dépôt est une **présentation publique**, pas le code source de production. Les modèles et conventions financières doivent être vérifiés par des tests de référence indépendants avant tout usage opérationnel. Aucune performance de pricing ou conformité réglementaire n'est revendiquée.
 
 Le projet sera présenté progressivement avec des exemples pédagogiques, sans données internes de l'entreprise.
+
+## Application et simulation de négociation
+
+![ValoOblig — Interface et résultats](assets/visuel_3.png)
 
 ## Accès au code
 
